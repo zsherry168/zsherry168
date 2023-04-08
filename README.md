@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-- 🔭 I’m currently working on cleaning and reorganizing my GitHub 
+- 🔭 I’m currently working on cleaning/reorganizing my GitHub and rebuilding my personal website with React
 - 🌱 I’m currently learning web development
 - 📫 How to reach me: sbz5250@psu.edu
 
