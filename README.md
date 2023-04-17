@@ -4,7 +4,7 @@ My name is Sherry and welcome to my GitHub.
 
 - 🔭 I’m currently working on cleaning/reorganizing my GitHub and rebuilding my personal website with React.js
 - 🌱 In school, I'm learning data structures & algorithms, system programming, web development, and blockchain technology
-- ☀️ For Summer 2023, I plan to pick up C++, work on more personal projects (e.g. Python OCR, etc.), take a few summer classes, and gain a better understanding of finance
+- ☀️ For Summer 2023, I plan to pick up C++ on Xcode, work on more personal projects (e.g. Python OCR, etc.), take a few summer classes, and gain a better understanding of finance
 - ⚡️ Fun Fact: I love salmon! Spicy salmon poke bowls, salmon avocado rolls, grilled salmon, lox bagels! You name it 🐟
 - 📫 How to reach me: sbz5250@psu.edu
 
