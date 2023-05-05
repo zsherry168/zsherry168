@@ -32,6 +32,8 @@ Feel free to connect with me on LinkedIn!
 ![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 ![VS Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
+[![Top Langs](https://github-readme-stats-vert-gamma.vercel.app/api/top-langs/?username=zsherry168&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **zsherry168/zsherry168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
