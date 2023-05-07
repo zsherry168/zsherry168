@@ -3,8 +3,6 @@
 My name is Sherry and welcome to my GitHub portfolio.
 
 - 🔭 I am currently working on cleaning/reorganizing my GitHub
-- 🌱 In school, I am learning data structures & algorithms, system programming, web development, and blockchain technology
-- ☀️ For Summer 2023, I am taking a summer class on C++, working on personal projects (e.g. Python OCR, etc.), and bettering my understanding of finance
 - ⚡️ Fun Fact: I love salmon! Spicy salmon poke bowls, salmon avocado rolls, grilled salmon, lox bagels! You name it 🐟
 - 📫 How to reach me: sbz5250@psu.edu
 
