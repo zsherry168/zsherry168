@@ -1,10 +1,6 @@
-### Hi there! 👋
+### Welcome to My GitHub Portfolio! 👋
 
-My name is Sherry and welcome to my GitHub portfolio.
-
-- 🔭 I am currently working on cleaning/reorganizing my GitHub
-- ⚡️ Fun Fact: I love salmon! Spicy salmon poke bowls, salmon avocado rolls, grilled salmon, lox bagels! You name it 🐟
-- 📫 How to reach me: sbz5250@psu.edu
+My name is Sherry, and I am a third-year student studying Computer Science and minoring in Mathematics at Penn State. I have a couple of repositories dedicated to my web development projects; however, I am looking to expand into more Python and C++ projects. 
 
 Feel free to connect with me on LinkedIn!
 
@@ -21,14 +17,14 @@ Feel free to connect with me on LinkedIn!
 **Frameworks & Libraries**
 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-**Text Editors**
+**IDEs**
 
-![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)
 ![VS Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 [![Top Langs](https://github-readme-stats-vert-gamma.vercel.app/api/top-langs/?username=zsherry168&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
