@@ -26,6 +26,7 @@ Feel free to connect with me on LinkedIn!
 
 ![VS Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
 [![Top Langs](https://github-readme-stats-vert-gamma.vercel.app/api/top-langs/?username=zsherry168&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff)](https://github.com/anuraghazra/github-readme-stats)
 
