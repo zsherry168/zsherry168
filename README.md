@@ -1,10 +1,6 @@
 ### Welcome to My GitHub Portfolio! 👋
 
-My name is Sherry, and I am a third-year student studying Computer Science and minoring in Mathematics at Penn State. I have a couple of repositories dedicated to my web development projects; however, I am looking to expand into more Python and C++ projects. 
-
-Feel free to connect with me on LinkedIn!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zsherry168/)
+My name is Sherry, and I am a third-year student studying Computer Science and minoring in Mathematics at Penn State.
 
 **Languages**
 
@@ -27,8 +23,6 @@ Feel free to connect with me on LinkedIn!
 ![VS Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
-
-[![Top Langs](https://github-readme-stats-vert-gamma.vercel.app/api/top-langs/?username=zsherry168&size_weight=0.5&count_weight=0.5&layout=compact&hide_border=true&bg_color=00000000&text_color=ffffff&title_color=ffffff&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **zsherry168/zsherry168** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
